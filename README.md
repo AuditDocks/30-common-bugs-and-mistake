@@ -1,5 +1,3 @@
-# 30-common-bugs-and-mistake
-
 # Vulnerabilities
 ## Code review
 - Reentrancy
